@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=KDE project manager
+Comment=KDE project manager
+Exec=projekt
+GenericName[en_US]=KDE Project manager
+GenericName=KDE Project manager
+Icon=projekt
+MimeType=
+Name[en_US]=Projekt
+Name=Projekt
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=

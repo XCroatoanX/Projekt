@@ -1,0 +1,15 @@
+--bare
+-I
+/home/artem/Documents/Projects/Projekt/build/Latest-Debug/bin
+-I
+/home/artem/Documents/Projects/Projekt/build/Latest-Debug/bin
+-I
+/usr/lib/qt6/qml
+--resource
+/home/artem/Documents/Projects/Projekt/build/Latest-Debug/src/qml/.qt/rcc/qmake_org_kde_projekt_qml.qrc
+--resource
+/home/artem/Documents/Projects/Projekt/build/Latest-Debug/src/qml/.qt/rcc/projekt-qml_raw_qml_0.qrc
+/home/artem/Documents/Projects/Projekt/src/qml/Main.qml
+/home/artem/Documents/Projects/Projekt/src/qml/AboutPage.qml
+--json
+/home/artem/Documents/Projects/Projekt/build/Latest-Debug/projekt-qml_qmllint.json

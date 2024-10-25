@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/org/kde/projekt/">
+    <file alias="Main.qml">/home/artem/Documents/Projects/Projekt/src/Main.qml</file>
+    <file alias="AboutPage.qml">/home/artem/Documents/Projects/Projekt/src/AboutPage.qml</file>
+  </qresource>
+</RCC>
+

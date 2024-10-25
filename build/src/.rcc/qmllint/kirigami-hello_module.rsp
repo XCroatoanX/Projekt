@@ -1,0 +1,12 @@
+-I
+/home/artem/Documents/Projects/Projekt/build/src
+-I
+/home/artem/Documents/Projects/Projekt/build/bin
+-I
+/usr/lib/qt6/qml
+--resource
+/home/artem/Documents/Projects/Projekt/build/src/.qt/rcc/qmake_org_kde_tutorial.qrc
+--resource
+/home/artem/Documents/Projects/Projekt/build/src/.qt/rcc/kirigami-hello_raw_qml_0.qrc
+--module
+org.kde.tutorial

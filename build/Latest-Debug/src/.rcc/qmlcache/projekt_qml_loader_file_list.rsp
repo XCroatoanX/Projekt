@@ -1,0 +1,6 @@
+--resource
+/home/artem/Documents/Projects/Projekt/build/Latest-Debug/src/.qt/rcc/qmake_org_kde_projekt.qrc
+--resource
+/home/artem/Documents/Projects/Projekt/build/Latest-Debug/src/.qt/rcc/projekt_raw_qml_0.qrc
+/qt/qml/org/kde/projekt/Main.qml
+/qt/qml/org/kde/projekt/AboutPage.qml
