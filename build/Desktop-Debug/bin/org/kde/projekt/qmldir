@@ -1,4 +1,0 @@
-module org.kde.projekt
-typeinfo projekt.qmltypes
-prefer :/qt/qml/org/kde/projekt/
-

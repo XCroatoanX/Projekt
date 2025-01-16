@@ -1,6 +1,0 @@
-set(__QT_DEPLOY_TARGET_projekt-qml_FILE /home/artem/Documents/Projects/Projekt/build/Latest-Debug/bin/libprojekt-qml.so)
-set(__QT_DEPLOY_TARGET_projekt-qml_TYPE SHARED_LIBRARY)
-set(__QT_DEPLOY_TARGET_projekt-qmlplugin_FILE /home/artem/Documents/Projects/Projekt/build/Latest-Debug/bin/org/kde/projekt/qml/libprojekt-qmlplugin.so)
-set(__QT_DEPLOY_TARGET_projekt-qmlplugin_TYPE MODULE_LIBRARY)
-set(__QT_DEPLOY_TARGET_projekt_FILE /home/artem/Documents/Projects/Projekt/build/Latest-Debug/bin/projekt)
-set(__QT_DEPLOY_TARGET_projekt_TYPE EXECUTABLE)

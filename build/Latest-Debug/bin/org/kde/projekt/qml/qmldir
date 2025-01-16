@@ -1,9 +1,0 @@
-module org.kde.projekt.qml
-linktarget projekt-qmlplugin
-optional plugin projekt-qmlplugin
-classname org_kde_projekt_qmlPlugin
-typeinfo projekt-qml.qmltypes
-prefer :/qt/qml/org/kde/projekt/qml/
-Main 254.0 Main.qml
-AboutPage 254.0 AboutPage.qml
-

@@ -1,9 +1,0 @@
---bare
--I
-/home/artem/Documents/Projects/Projekt/build/Latest-Debug/src
--I
-/home/artem/Documents/Projects/Projekt/build/Latest-Debug/bin
--I
-/usr/lib/qt6/qml
---resource
-/home/artem/Documents/Projects/Projekt/build/Latest-Debug/src/.qt/rcc/qmake_org_kde_projekt.qrc

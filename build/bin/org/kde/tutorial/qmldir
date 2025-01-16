@@ -1,5 +1,0 @@
-module org.kde.tutorial
-typeinfo projekt.qmltypes
-prefer :/qt/qml/org/kde/tutorial/
-Main 254.0 Main.qml
-

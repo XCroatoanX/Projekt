@@ -1,8 +1,0 @@
-projekt-qml_autogen/timestamp: \
-	/home/artem/Documents/Projects/Projekt/build/Latest-Debug/src/qml/projekt-qmlplugin_org_kde_projekt_qmlPlugin_in.cpp \
-	/home/artem/Documents/Projects/Projekt/src/qml/CMakeLists.txt \
-	/usr/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
-	/usr/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
-	/usr/bin/cmake
