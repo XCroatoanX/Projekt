@@ -1,4 +1,5 @@
-add_executable(projekt)
+add_executable(projekt
+    assets.qrc)
 
 ecm_add_qml_module(projekt
     URI

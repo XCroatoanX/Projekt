@@ -1,0 +1,12 @@
+module org.kde.tutorial.qml
+linktarget kirigami-hello-qmlplugin
+optional plugin kirigami-hello-qmlplugin
+classname org_kde_tutorial_qmlPlugin
+typeinfo kirigami-hello-qml.qmltypes
+prefer :/qt/qml/org/kde/tutorial/qml/
+AboutPage 254.0 AboutPage.qml
+BoardCard 254.0 BoardCard.qml
+AddBoardDialog 254.0 AddBoardDialog.qml
+KountdownDelegate 254.0 KountdownDelegate.qml
+EditBoardDialog 254.0 EditBoardDialog.qml
+

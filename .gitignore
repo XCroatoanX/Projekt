@@ -1,74 +1,60 @@
-# This file is used to ignore files which are generated
-# ----------------------------------------------------------------------------
-
-*~
+# Qt build and temporary files
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qmake.cache
 *.autosave
-*.a
-*.core
-*.moc
-*.o
-*.obj
-*.orig
-*.rej
-*.so
-*.so.*
-*_pch.h.cpp
-*_resource.rc
-*.qm
-.#*
-*.*#
-core
-!core/
-tags
+
+# Qt Creator-specific files
 .DS_Store
-.directory
-*.debug
-Makefile*
-*.prl
-*.app
-moc_*.cpp
+*.creator.user
+*.creator.user.*
+*.creator
+*.creator.*
+
+# Build directories
+build*/
+*.moc
+*.obj
+*.o
+*.obj.*
+*.o.*
+
+# Qt resource and form files
 ui_*.h
 qrc_*.cpp
-Thumbs.db
-*.res
-*.rc
-/.qmake.cache
-/.qmake.stash
+moc_*.cpp
 
-# qtcreator generated files
-*.pro.user*
-CMakeLists.txt.user*
-
-# xemacs temporary files
-*.flc
-
-# Vim temporary files
-.*.swp
-
-# Visual Studio generated files
-*.ib_pdb_index
-*.idb
-*.ilk
-*.pdb
-*.sln
-*.suo
-*.vcproj
-*vcproj.*.*.user
-*.ncb
-*.sdf
-*.opensdf
-*.vcxproj
-*vcxproj.*
-
-# MinGW generated files
-*.Debug
-*.Release
-
-# Python byte code
-*.pyc
-
-# Binaries
-# --------
+# Intermediate files
+*.a
+*.lib
+*.so
 *.dll
+*.dylib
 *.exe
+*.app
+*.out
 
+# Debug and crash files
+*.dSYM
+*.core
+*.stackdump
+
+# Generated files
+*.log
+Makefile
+Makefile.*
+*.moc
+*.qmlc
+*.qmltypes
+
+# Backup files
+*.bak
+*~
+
+# Version control directories
+.hg/
+.svn/
+.git/
+*.swp
+*.tmp

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/org/kde/projekt/qml">/home/artem/Documents/Projekt/build/Desktop-Debug/bin/org/kde/projekt/qml</file>
+
+  </qresource>
+</RCC>
